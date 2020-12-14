@@ -1,0 +1,17 @@
+.add-user-form {
+  .form-add {
+    text-align: center;
+
+    .ant-form-item {
+      margin-top: 5px;
+      margin-bottom: 5px;
+      &-control {
+        text-align: left;
+      }
+    }
+
+    .btn-submit {
+      width: 100%;
+    }
+  }
+}
